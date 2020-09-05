@@ -126,7 +126,7 @@ ol li
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 20px 24px 20px 37px;
-  background-color: #ffffff;} 
+  background-color: #ffffff; } 
 
 .sidebar
 { float: right;
@@ -188,7 +188,7 @@ ol li
   
   
   
-#footer1
+#footer1 header
 { width: 900px;
   font: normal 100% 'Times New Roman', arial, sans-serif;
   height: 33px;

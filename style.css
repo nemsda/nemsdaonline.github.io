@@ -95,11 +95,13 @@ ol li
 { width: 896px;
   position: relative;
   height: 200px;
-}
+  margin-top: 5px;
+  margin-bottom: 5px;}
 
 #logo #logo_text 
 { position: absolute; 
-  top: 5px;
+  top: 1px;
+  bottom: 1px;
   left: 0;}
 
 #logo h1, #logo h2
@@ -127,7 +129,7 @@ ol li
   overflow: hidden;
   margin: 0 auto 0 auto;
   padding: 20px 24px 20px 37px;
-  background: transparent url(transparent_light.png) repeat; } 
+  background: transparent url(transparent_light.png) repeat;} 
 
 .sidebar
 { float: right;
@@ -189,7 +191,7 @@ ol li
   
   
   
-#footer1 header
+#footer1
 { width: 900px;
   font: normal 100% 'Times New Roman', arial, sans-serif;
   height: 33px;
@@ -289,9 +291,3 @@ table tr td
 { background: #F0EFE2;
   color: #47433F;
   border-top: 1px solid #FFF;}
-
-
-
-
-
-

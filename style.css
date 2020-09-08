@@ -119,9 +119,8 @@ background : #eef6fb;
 
 
 
-
 .div {
- padding : 5px;
+padding : 5px;
 margin-left : 0;
 margin-bottom : 5px;
 color : #555;
@@ -173,10 +172,10 @@ color : #333;
 margin : 0 15px;
 }
 .roundtop {
-background : url(img/tr.gif) no-repeat top right;
+background : url(tr.gif) no-repeat top right;
 }
 .roundbottom {
-background : url(img/br.gif) no-repeat top right;
+background : url(br.gif) no-repeat top right;
 }
 img.corner {
 width : 10px;

@@ -173,6 +173,20 @@ color : #000000;
 background : inherit;
 
 }
+
+
+
+
+
+.tab { margin-left: 40px;
+font-weight: bold;
+font-size: 14px;
+text-align: center;}
+
+
+
+
+
 h1 {
 margin : 10px 0 10px 10px;
 padding : 0;

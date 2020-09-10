@@ -1,10 +1,6 @@
 
 body {
-margin : 0;
-padding : 0;
-font : 73% "Trebuchet MS", verdana, tahoma, sans-serif;
-color : #555;
-background-size: cover;
+
 background-image : url(desertcamel.jpg) no-repeat center center fixed;
 -webkit-background-size: cover;
   -moz-background-size: cover;

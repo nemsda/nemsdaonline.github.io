@@ -131,6 +131,7 @@ background : #eef6fb;
 .div {
     width:100%;
     height:100%;
+    margin-left: 10px;
     margin:-200px auto 0px auto;
     background:transparent url(board.jpg) no-repeat;
 }

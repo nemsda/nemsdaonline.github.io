@@ -6,7 +6,7 @@ font : 73% "Trebuchet MS", verdana, tahoma, sans-serif;
 color : #555;
 background-size: cover;
 background-image : url(desertcamel.jpg);
-background-repeat : no-repeat;
+background-repeat : no-repeat fixed;
 height : 100%;
 }
 #container {

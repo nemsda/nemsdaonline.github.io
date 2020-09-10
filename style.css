@@ -119,7 +119,7 @@ background : #eef6fb;
 
 
 
-.div {
+ {
 padding : 5px;
 margin-left : 0;
 margin-bottom : 5px;
@@ -128,9 +128,12 @@ background : #eef6fb;
 }
 
 
-
-
-
+.div {
+    width:824px;
+    height:600px;
+    margin:-200px auto 0px auto;
+    background:transparent url(board.jpg) no-repeat bottom left;
+}
 
 
 

@@ -94,6 +94,7 @@ margin : 0;
 color : #fff;
 background-image : url(greenboard.jpg);
 background-repeat: no-repeat;
+border-radius: 15%;
 }
 #banner h1 {
 margin : 0;
@@ -166,6 +167,7 @@ border-top : 1px solid #6ca3e4;
 border-bottom : 1px solid #6ca3e4;
 color : #333;
 background : #99c6e7;
+border-radius: 25%;
 }
 .roundcont {
 margin : 10px;

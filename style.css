@@ -125,6 +125,8 @@ margin-left : 220px;
 margin-bottom : 5px;
 color : #555;
 background : #eef6fb;
+	background-size: contain;
+	background-origin: content-box;
 }
 
 
@@ -184,12 +186,16 @@ margin : 10px;
 width : 95%;
 background : #f7fbfd;
 color : #333;
+	background-size: contain;
+	background-origin: content-box;
 }
 .roundcont p {
 margin : 0 15px;
 }
 .roundtop {
 background : url(tr.gif) no-repeat top right;
+	background-size: contain;
+	background-origin: content-box;
 }
 .roundbottom {
 background : url(br.gif) no-repeat top right;

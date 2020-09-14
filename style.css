@@ -140,7 +140,7 @@ background : #eef6fb;
 
 
 .div {
-float: right;
+float: center;
     display: block;
     width:100%;
     height:100%;
